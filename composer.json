@@ -1,0 +1,20 @@
+{
+	"name": "quadra-digital/silverstripe-ufspamfilter",
+	"description": "A customisable spam word filter for silverstripe userforms",
+	"keywords": ["silverstripe", "userforms", "spam", "filter"],
+	"type": "silverstripe-module",
+	"homepage": "https://github.com/Quadra-Digital/silverstripe-ufspamfilter",
+	"license": "BSD-3-Clause",
+	"authors": [
+	{
+		"name": "Jack O'Connor",
+		"email": "jackoconnor21@hotmail.co.uk"
+	}
+	],
+	"require": {
+		"silverstripe/userforms": ">=3.0.0 <4.3"
+	},
+	"extra": {
+		"installer-name": "ufspamfilter"
+	}
+}

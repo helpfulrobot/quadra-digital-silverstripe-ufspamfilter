@@ -1,0 +1,16 @@
+---
+Name: 'ufspamfilter'
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+UserDefinedForm:
+  extensions:
+    - UserDefinedFormExtension
+UserDefinedForm_Controller:
+  extensions:
+    - UserDefinedFormControllerExtension
+UserForm:
+  extensions:
+    - UserFormSpamExtension
+
