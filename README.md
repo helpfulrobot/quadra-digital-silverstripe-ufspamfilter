@@ -1,4 +1,5 @@
 # silverstripe-ufspamfilter
+A customisable spam filter for SilverStripe Userforms.
 
 ## Requirements
 [SilverStripe ^3.1](https://github.com/silverstripe/silverstripe-cms/tree/3)
