@@ -28,7 +28,7 @@ Add a comma separated list of desired spam words, activate the spam filter and a
 ![screenshot](images/ufspamfilter-cms.png)
 
 ## License
-This module uses the BSD-3-Clasue license. See the [LICENSE.md](LICENSE.md) file for the full license.
+This module uses the BSD-3-Clause license. See the [LICENSE.md](LICENSE.md) file for the full license.
 
 ## Copyright
 Copyright (c) 2017, [Quadrahedron Limited](https://www.quadradigital.co.uk) All rights reserved.
